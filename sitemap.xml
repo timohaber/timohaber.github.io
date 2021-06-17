@@ -11,18 +11,6 @@
     <loc>https://timohaber.github.io./</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://timohaber.github.io./publication-type/2/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://timohaber.github.io./publication/ascari_haber/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://timohaber.github.io./publication_types/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://timohaber.github.io./publication/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://timohaber.github.io./tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -63,5 +51,13 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://timohaber.github.io./admin/</loc>
+  </url><url>
+    <loc>https://timohaber.github.io./publication-type/2/</loc>
+  </url><url>
+    <loc>https://timohaber.github.io./publication/ascari_haber/</loc>
+  </url><url>
+    <loc>https://timohaber.github.io./publication_types/</loc>
+  </url><url>
+    <loc>https://timohaber.github.io./publication/</loc>
   </url>
 </urlset>
