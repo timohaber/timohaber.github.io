@@ -5,12 +5,20 @@
     <link>https://timohaber.github.io./author/timo-haber/</link>
       <atom:link href="https://timohaber.github.io./author/timo-haber/index.xml" rel="self" type="application/rss+xml" />
     <description>Timo Haber</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://timohaber.github.io./author/timo-haber/avatar_hu088bde3937c2165f937413b44a93a981_99504_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Timo Haber</title>
       <link>https://timohaber.github.io./author/timo-haber/</link>
     </image>
+    
+    <item>
+      <title>Unconventional monetary policy, leverage and corporate investment</title>
+      <link>https://timohaber.github.io./project/haber_2021/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io./project/haber_2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-linearities, state-dependent prices and the transmission mechanism of monetary policy</title>
@@ -25,7 +33,7 @@
       <link>https://timohaber.github.io./project/ferreira_haber_roerig/</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://timohaber.github.io./project/ferreira_haber_roerig/</guid>
-      <description>&lt;p&gt;Using a unique dataset covering the universe of Portuguese firms and their credit sit-uation we revisit the relation between firm characteristics, financial factors and their sensitivity to business fluctuations.  First,  we provide two stylized facts: (1) Financially constrained firms react more to the business cycle and this mechanism is orthogonal to the size channel proposed by Crouzet &amp;amp; Mehrotra (2020). (2) Constrained firms are found across the entire size distribution, also in the top percentiles, which is in contrast to what existing financial friction models would predict. Next, we showthat ex-ante heterogeneity of firms, a possible explanatory factor, matters and persists over the firms’  life cycle affecting constrained and unconstrained firms differently. Including permanent productivity heterogeneity in a financial frictions model can rationalise the stylized facts and larger constrained firms subsequently lead to stronger aggregate fluctuations.&lt;/p&gt;
+      <description>&lt;p&gt;Using a unique dataset covering the universe of Portuguese firms and their credit situation we revisit the relation between firm characteristics, financial factors and their sensitivity to business fluctuations.  First,  we provide two stylized facts: (1) Financially constrained firms react more to the business cycle and this mechanism is orthogonal to the size channel proposed by Crouzet &amp;amp; Mehrotra (2020). (2) Constrained firms are found across the entire size distribution, also in the top percentiles, which is in contrast to what existing financial friction models would predict. Next, we showthat ex-ante heterogeneity of firms, a possible explanatory factor, matters and persists over the firms’  life cycle affecting constrained and unconstrained firms differently. Including permanent productivity heterogeneity in a financial frictions model can rationalise the stylized facts and larger constrained firms subsequently lead to stronger aggregate fluctuations.&lt;/p&gt;
 </description>
     </item>
     
