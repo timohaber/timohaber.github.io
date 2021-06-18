@@ -29,5 +29,16 @@
 </description>
     </item>
     
+    <item>
+      <title>Inequality, portfolio choice and reduced history models.</title>
+      <link>https://timohaber.github.io./project/haber_2020/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io./project/haber_2020/</guid>
+      <description>&lt;p&gt;This paper solves a reduced history model with heterogeneous agents, aggregate risk and portfolio choice between a risky, productive and a risk-free, non-productive asset. Motivated by existing empirical evidence and consistent with the portfolio choice theory of precautionary savings I find that the idiosyncrasy in human capital gives rise to heterogeneous asset allocations.
+The agents with the lower consumption growth save more in the risky asset, whilst poorer agents only use the safe asset, implying that the relative supply of safe assets is a central determinant for the evolution of aggregate consumption.
+Separately, this paper also improves upon the existing methodology of reduced history representations by finding a global solution, enabling studies of richer environments within this framework. In particular, a study of optimal fiscal policy in a heterogeneous agents model with portfolio choice becomes feasible.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
