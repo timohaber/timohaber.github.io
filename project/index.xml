@@ -5,12 +5,21 @@
     <link>https://timohaber.github.io./project/</link>
       <atom:link href="https://timohaber.github.io./project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://timohaber.github.io./media/icon_hu1f2b14f4e28c9b6e07d17b56fd4f0628_1929_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://timohaber.github.io./project/</link>
     </image>
+    
+    <item>
+      <title>From Premia to Spirals: How Financial Frictions Drive Lumpy Investments</title>
+      <link>https://timohaber.github.io./project/ferreira_haber_lee/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io./project/ferreira_haber_lee/</guid>
+      <description>&lt;p&gt;Abstract to follow soon&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Financial Constraints and Firm Size: Micro-Evidence and Aggregate Implications</title>
