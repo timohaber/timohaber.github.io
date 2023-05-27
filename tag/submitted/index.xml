@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Submitted | Timo Haber</title>
+    <link>https://timohaber.github.io./tag/submitted/</link>
+      <atom:link href="https://timohaber.github.io./tag/submitted/index.xml" rel="self" type="application/rss+xml" />
+    <description>Submitted</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timohaber.github.io./media/icon_hu1f2b14f4e28c9b6e07d17b56fd4f0628_1929_512x512_fill_lanczos_center_3.png</url>
+      <title>Submitted</title>
+      <link>https://timohaber.github.io./tag/submitted/</link>
+    </image>
+    
+    <item>
+      <title>Financial Constraints and Firm Size: Micro-Evidence and Aggregate Implications</title>
+      <link>https://timohaber.github.io./project/ferreira_haber_roerig/</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io./project/ferreira_haber_roerig/</guid>
+      <description>&lt;p&gt;Using a unique dataset covering the universe of Portuguese firms and their credit situation we show that financially constrained firms are found across the entire firm size distribution, even in the top 1%. Incorporating a richer, empirically supported, productivity process into a standard heterogeneous firms model generates a joint distribution of size and credit constraints in line with the data. The presence of large constrained firms in the economy, together with their elevated capital share, explains about 66% of the response of output to a financial shock. We conclude by providing micro-evidence in support of the model mechanism.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
