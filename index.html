@@ -256,7 +256,54 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-T4XNKFS916"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-T4XNKFS916', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-T4XNKFS916');
+</script>
+
 
   
 
@@ -1045,284 +1092,6 @@ My research interests lie at the intersection of monetary economics, heterogeneo
   
 
   
-  <section id="publications" class="home-section wg-pages  "  >
-   <div class="home-section-bg " ></div>
-    <div class="container">
-
-    
-      <div class="row  ">
-      
-        
-          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">Publications</h1>
-            
-          </div>
-        
-      
-    
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-<div class="col-12 col-lg-8">
-
-  
-
-  
-    
-      
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/publication/ascari_haber_22/" >Non-linearities, state-dependent prices and the transmission mechanism of monetary policy</a>
-    </div>
-
-    
-    <a href="/publication/ascari_haber_22/"  class="summary-link">
-      <div class="article-style">
-        A sticky price theory of the transmission mechanism of monetary policy shocks based on state-dependent pricing yields two testable implications, that do not hold in time-dependent models. First, large monetary policy shocks should yield proportionally larger initial responses of the price level. Second, in a high trend inflation regime, the response of the price level to monetary policy shocks should be larger and real effects smaller. Our analysis provides evidence supporting these non-linear effects in the response of the price level in aggregate US data, indicating state-dependent pricing as an important feature of the transmission mechanism of monetary policy.
-      </div>
-    </a>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-  <span >
-      <a href="/author/guido-ascari/">Guido Ascari</a></span>, <span >
-      <a href="/author/timo-haber/">Timo Haber</a></span>
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://timohaber.github.io/uploads/ascari_haber_2021_manuscript.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/ascari_haber_22/cite.bib">
-  Cite
-</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/ej/article/132/641/37/6302374" target="_blank" rel="noopener">
-    
-    The Economic Journal
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://timohaber.github.io/uploads/ascari_haber_2021_appendix.pdf" target="_blank" rel="noopener">
-    
-    Appendix
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2020-economic-commentaries/ec-202014-cebra-summary.aspx" target="_blank" rel="noopener">
-    
-    Cleveland Fed Coverage
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-
-  
-  
-  
-
-</div>
-
-
-    
-      </div>
-    
-
-    </div>
-  </section>
-
-  
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
   <section id="projects" class="home-section wg-pages  "  >
    <div class="home-section-bg " ></div>
     <div class="container">
@@ -1759,6 +1528,284 @@ My research interests lie at the intersection of monetary economics, heterogeneo
 
   
 
+</div>
+
+    
+  
+
+  
+  
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="publications" class="home-section wg-pages  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Publications</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/ascari_haber_22/" >Non-linearities, state-dependent prices and the transmission mechanism of monetary policy</a>
+    </div>
+
+    
+    <a href="/publication/ascari_haber_22/"  class="summary-link">
+      <div class="article-style">
+        A sticky price theory of the transmission mechanism of monetary policy shocks based on state-dependent pricing yields two testable implications, that do not hold in time-dependent models. First, large monetary policy shocks should yield proportionally larger initial responses of the price level. Second, in a high trend inflation regime, the response of the price level to monetary policy shocks should be larger and real effects smaller. Our analysis provides evidence supporting these non-linear effects in the response of the price level in aggregate US data, indicating state-dependent pricing as an important feature of the transmission mechanism of monetary policy.
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/author/guido-ascari/">Guido Ascari</a></span>, <span >
+      <a href="/author/timo-haber/">Timo Haber</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://timohaber.github.io/uploads/ascari_haber_2021_manuscript.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/ascari_haber_22/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://academic.oup.com/ej/article/132/641/37/6302374" target="_blank" rel="noopener">
+    
+    The Economic Journal
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://timohaber.github.io/uploads/ascari_haber_2021_appendix.pdf" target="_blank" rel="noopener">
+    
+    Appendix
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2020-economic-commentaries/ec-202014-cebra-summary.aspx" target="_blank" rel="noopener">
+    
+    Cleveland Fed Coverage
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
 </div>
 
     
