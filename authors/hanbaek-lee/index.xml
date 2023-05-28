@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanbaek Lee | Academic</title>
+    <link>https://example.com/authors/hanbaek-lee/</link>
+      <atom:link href="https://example.com/authors/hanbaek-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanbaek Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu1f2b14f4e28c9b6e07d17b56fd4f0628_1929_512x512_fill_lanczos_center_3.png</url>
+      <title>Hanbaek Lee</title>
+      <link>https://example.com/authors/hanbaek-lee/</link>
+    </image>
+    
+    <item>
+      <title>From Premia to Spirals: How Financial Frictions Drive Lumpy Investments</title>
+      <link>https://example.com/project/ferreira_haber_lee/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ferreira_haber_lee/</guid>
+      <description>&lt;p&gt;A simple model predicts that firms with lumpy investment profiles face elevated external finance premia, leading to a reduced propensity to adjust. This creates lumpy investment spirals - firms failing to adjust also face higher premia in the future, decreasing their propensity to invest tomorrow. Using Compustat data we show that these predictions are consistent with observed investment lumpiness and risk premium patterns. Finally, we analyse how the presence of lumpy investment spirals affects capital misallocation and aggregate shock sensitivity in a heterogeneous firms model with financial frictions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
