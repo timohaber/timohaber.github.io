@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>https://example.com/authors/</link>
-      <atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Timo Haber</title>
+    <link>https://timohaber.github.io/authors/</link>
+      <atom:link href="https://timohaber.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu1f2b14f4e28c9b6e07d17b56fd4f0628_1929_512x512_fill_lanczos_center_3.png</url>
+      <url>https://timohaber.github.io/media/icon_hu1f2b14f4e28c9b6e07d17b56fd4f0628_1929_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://example.com/authors/</link>
+      <link>https://timohaber.github.io/authors/</link>
     </image>
     
   </channel>
