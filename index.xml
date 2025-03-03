@@ -28,6 +28,37 @@
     </item>
     
     <item>
+      <title>Inequality along the European green transition (Submitted)</title>
+      <link>https://timohaber.github.io/current_work/ascari_colciago_haber_woehrmueller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io/current_work/ascari_colciago_haber_woehrmueller/</guid>
+      <description>&lt;p&gt;The EU aims for 42.5% green energy consumption by 2030. What are the effects of the European green transition on inequality? We answer this question using a heterogeneous-agent model with non-homothetic preferences for energy and non-energy goods, calibrated to European data. We study the impact of an increase in carbon taxes designed to meet the EU target under different revenue-recycling strategies. Redistributing tax revenues via uniform transfers reduces consumption inequality, shifts the welfare burden to high-income households, but leads to significant output losses. Subsidizing green energy producers boosts energy production, reduces output losses, and requires a smaller carbon tax to meet the EU target. However, it increases consumption and income inequality, with the highest welfare costs borne by low-income and asset-poor households. Our findings highlight key trade-offs between equity and efficiency in green transition policies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/guidoascari/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guido Ascari&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.andreacolciago.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Colciago&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timohaber.github.io/&#34;&gt;Timo Haber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swoehrmueller.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Wöhrmüller&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Premia to Spirals: How Financial Frictions Drive Lumpy Investments</title>
+      <link>https://timohaber.github.io/current_work/ferreira_haber_lee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io/current_work/ferreira_haber_lee/</guid>
+      <description>&lt;p&gt;A simple model predicts that firms with lumpy investment profiles face elevated external finance premia, leading to a reduced propensity to adjust. This creates lumpy investment spirals - firms failing to adjust also face higher premia in the future, decreasing their propensity to invest tomorrow. Using Compustat data we show that these predictions are consistent with observed investment lumpiness and risk premium patterns. Finally, we analyse how the presence of lumpy investment spirals affects capital misallocation and aggregate shock sensitivity in a heterogeneous firms model with financial frictions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/miguelhferreira/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel Homem Ferreira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timohaber.github.io/&#34;&gt;Timo Haber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/sas.upenn.edu/hanbaeklee/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hanbaek Lee&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Non-linearities, state-dependent prices and the transmission mechanism of monetary policy</title>
       <link>https://timohaber.github.io/publication/ascari_haber_22/</link>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
@@ -46,21 +77,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://timohaber.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>From Premia to Spirals: How Financial Frictions Drive Lumpy Investments</title>
-      <link>https://timohaber.github.io/current_work/ferreira_haber_lee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://timohaber.github.io/current_work/ferreira_haber_lee/</guid>
-      <description>&lt;p&gt;A simple model predicts that firms with lumpy investment profiles face elevated external finance premia, leading to a reduced propensity to adjust. This creates lumpy investment spirals - firms failing to adjust also face higher premia in the future, decreasing their propensity to invest tomorrow. Using Compustat data we show that these predictions are consistent with observed investment lumpiness and risk premium patterns. Finally, we analyse how the presence of lumpy investment spirals affects capital misallocation and aggregate shock sensitivity in a heterogeneous firms model with financial frictions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/miguelhferreira/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel Homem Ferreira&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://timohaber.github.io/&#34;&gt;Timo Haber&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/sas.upenn.edu/hanbaeklee/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hanbaek Lee&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
