@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current Works | Timo Haber</title>
+    <title>Current Work | Timo Haber</title>
     <link>https://timohaber.github.io/current_work/</link>
       <atom:link href="https://timohaber.github.io/current_work/index.xml" rel="self" type="application/rss+xml" />
-    <description>Current Works</description>
+    <description>Current Work</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://timohaber.github.io/media/icon_hu02aa61ae1d9de35cbe238d2676170cb9_690743_512x512_fill_lanczos_center_3.png</url>
-      <title>Current Works</title>
+      <url>https://timohaber.github.io/media/icon_hud6818986b73e98a457b09142b7ee94dc_3615_512x512_fill_lanczos_center_3.png</url>
+      <title>Current Work</title>
       <link>https://timohaber.github.io/current_work/</link>
     </image>
     
@@ -51,7 +51,7 @@
       <description>&lt;p&gt;A simple model predicts that firms with lumpy investment profiles face elevated external finance premia, leading to a reduced propensity to adjust. This creates lumpy investment spirals - firms failing to adjust also face higher premia in the future, decreasing their propensity to invest tomorrow. Using Compustat data we show that these predictions are consistent with observed investment lumpiness and risk premium patterns. Finally, we analyse how the presence of lumpy investment spirals affects capital misallocation and aggregate shock sensitivity in a heterogeneous firms model with financial frictions.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/miguelhferreira/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel Homem Ferreira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/miguelhferreira/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel H. Ferreira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://timohaber.github.io/&#34;&gt;Timo Haber&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sites.google.com/sas.upenn.edu/hanbaeklee/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hanbaek Lee&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
