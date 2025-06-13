@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Competition | Timo Haber</title>
+    <link>https://timohaber.github.io/tag/competition/</link>
+      <atom:link href="https://timohaber.github.io/tag/competition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Competition</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://timohaber.github.io/media/icon_hu0705edf470ad0aef9c6699815b1d2148_4384_512x512_fill_lanczos_center_3.png</url>
+      <title>Competition</title>
+      <link>https://timohaber.github.io/tag/competition/</link>
+    </image>
+    
+    <item>
+      <title>The Competition Channel of Skewness</title>
+      <link>https://timohaber.github.io/current_work/bennhoff_haber_schmitz/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://timohaber.github.io/current_work/bennhoff_haber_schmitz/</guid>
+      <description>&lt;p&gt;Firm growth rates in times of crisis take are strongly negatively skewed (Salgado et al, 2019). Examining the Compustat universe of firms, we find that this pro-cyclical left-skew is concentrated on very largest companies in the market. Smaller firms exhibit much less skewness in growth rates when hit by adverse shocks. Furthermore, using a factor decomposition, we show that not the shocks themselves, but rather the reactions of firms to shocks exhibit skewness. We rationalize these observation in a simple framework of a profit maximizing firm. A version of Marshall’s second law of demand implies that price setting firms react to shocks with left-skewed output growth rates, while price taking firms respond symmetrically. Furthermore, left-skewness is increasing in the degree of market power and in the standard deviation of the shock. In light of our model, left-skewed downside risk is not a consequence of disaster shocks, but the result of monopolization and market power.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fredhb.github.io/research/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frederik Bennhoff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://timohaber.github.io/&#34;&gt;Timo Haber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.schmitzniklas.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Wöhrmüller&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
