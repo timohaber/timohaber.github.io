@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>The Competition Channel of Skewness</title>
+      <title>Monopolistically Skewed Business Cycles</title>
       <link>https://timohaber.github.io/current_work/bennhoff_haber_schmitz/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://timohaber.github.io/current_work/bennhoff_haber_schmitz/</guid>
-      <description>&lt;p&gt;Firm growth rates in times of crisis take are strongly negatively skewed (Salgado et al, 2019). Examining the Compustat universe of firms, we find that this pro-cyclical left-skew is concentrated on very largest companies in the market. Smaller firms exhibit much less skewness in growth rates when hit by adverse shocks. Furthermore, using a factor decomposition, we show that not the shocks themselves, but rather the reactions of firms to shocks exhibit skewness. We rationalize these observation in a simple framework of a profit maximizing firm. A version of Marshall’s second law of demand implies that price setting firms react to shocks with left-skewed output growth rates, while price taking firms respond symmetrically. Furthermore, left-skewness is increasing in the degree of market power and in the standard deviation of the shock. In light of our model, left-skewed downside risk is not a consequence of disaster shocks, but the result of monopolization and market power.&lt;/p&gt;
+      <description>&lt;p&gt;We show that the cross-sectional distribution of firm growth rates changes shape over the business cycle: it is right-skewed in booms, left-skewed in recessions, and these swings are more pronounced for larger firms. We call this the size gradient of skewness. We show that one way of explaining this pattern is through a parsimonious demand-side framework in which market power maps symmetric shocks into skewed growth outcomes. Stronger market power implies more concave responses and thus greater skewness. Countercyclical variance — or equivalently heterogeneous exposures to aggregate impulses — then generates the procyclical, size-dependent skewness we observe. Consistent with this mech- anism, impulse responses to aggregate shocks show that growth and skewness move in tandem, with the skewness response concentrated among large firms. The results imply that large firms amplify cyclical asymmetry through market power, and that outcome-based policies risk responding to distributional patterns that reflect propagation rather than the shocks themselves.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://fredhb.github.io/research/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frederik Bennhoff&lt;/a&gt;&lt;/li&gt;
