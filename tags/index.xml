@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Timo Haber</title>
-    <link>https://timohaber.github.io/tags/</link>
-      <atom:link href="https://timohaber.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://timohaber.com/tags/</link>
+      <atom:link href="https://timohaber.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://timohaber.github.io/media/icon_hu0705edf470ad0aef9c6699815b1d2148_4384_512x512_fill_lanczos_center_3.png</url>
+      <url>https://timohaber.com/media/icon_hu0705edf470ad0aef9c6699815b1d2148_4384_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://timohaber.github.io/tags/</link>
+      <link>https://timohaber.com/tags/</link>
     </image>
     
   </channel>

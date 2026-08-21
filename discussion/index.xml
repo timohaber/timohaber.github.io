@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent Discussions | Timo Haber</title>
-    <link>https://timohaber.github.io/discussion/</link>
-      <atom:link href="https://timohaber.github.io/discussion/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://timohaber.com/discussion/</link>
+      <atom:link href="https://timohaber.com/discussion/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent Discussions</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://timohaber.github.io/media/icon_hu0705edf470ad0aef9c6699815b1d2148_4384_512x512_fill_lanczos_center_3.png</url>
+      <url>https://timohaber.com/media/icon_hu0705edf470ad0aef9c6699815b1d2148_4384_512x512_fill_lanczos_center_3.png</url>
       <title>Recent Discussions</title>
-      <link>https://timohaber.github.io/discussion/</link>
+      <link>https://timohaber.com/discussion/</link>
     </image>
     
   </channel>
